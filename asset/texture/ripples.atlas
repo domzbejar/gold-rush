@@ -1,0 +1,27 @@
+
+ripples.png
+size: 272, 100
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/ripple1
+  rotate: false
+  xy: 5, 73
+  size: 117, 20
+  orig: 117, 20
+  offset: 0, 0
+  index: -1
+images/ripple2
+  rotate: false
+  xy: 127, 70
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+images/w
+  rotate: false
+  xy: 5, 5
+  size: 262, 60
+  orig: 262, 60
+  offset: 0, 0
+  index: -1

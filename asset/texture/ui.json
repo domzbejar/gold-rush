@@ -1,0 +1,377 @@
+{
+	"textures": [
+		{
+			"image": "ui.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1237,
+				"h": 497
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "info-v2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 388,
+						"h": 479
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 388,
+						"h": 479
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 388,
+						"h": 479
+					}
+				},
+				{
+					"filename": "circle-border.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 13,
+						"w": 282,
+						"h": 282
+					},
+					"frame": {
+						"x": 391,
+						"y": 1,
+						"w": 282,
+						"h": 282
+					}
+				},
+				{
+					"filename": "win-amt-bg-bottom.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 349,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 349,
+						"h": 200
+					},
+					"frame": {
+						"x": 391,
+						"y": 285,
+						"w": 349,
+						"h": 200
+					}
+				},
+				{
+					"filename": "mask.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 250,
+						"h": 250
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 250
+					},
+					"frame": {
+						"x": 675,
+						"y": 1,
+						"w": 250,
+						"h": 250
+					}
+				},
+				{
+					"filename": "no-balance.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 332,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 332,
+						"h": 183
+					},
+					"frame": {
+						"x": 742,
+						"y": 253,
+						"w": 332,
+						"h": 183
+					}
+				},
+				{
+					"filename": "live.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 99,
+						"h": 31
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 99,
+						"h": 31
+					},
+					"frame": {
+						"x": 742,
+						"y": 438,
+						"w": 99,
+						"h": 31
+					}
+				},
+				{
+					"filename": "btn-submit.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 176,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 176,
+						"h": 85
+					},
+					"frame": {
+						"x": 927,
+						"y": 1,
+						"w": 176,
+						"h": 85
+					}
+				},
+				{
+					"filename": "bal-bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 235,
+						"h": 60
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 235,
+						"h": 60
+					},
+					"frame": {
+						"x": 927,
+						"y": 88,
+						"w": 235,
+						"h": 60
+					}
+				},
+				{
+					"filename": "btn-add.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 71
+					},
+					"frame": {
+						"x": 1105,
+						"y": 1,
+						"w": 72,
+						"h": 71
+					}
+				},
+				{
+					"filename": "btn-continue.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 76
+					},
+					"frame": {
+						"x": 927,
+						"y": 150,
+						"w": 147,
+						"h": 76
+					}
+				},
+				{
+					"filename": "btn-close.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 71
+					},
+					"frame": {
+						"x": 1164,
+						"y": 74,
+						"w": 72,
+						"h": 71
+					}
+				},
+				{
+					"filename": "btn-minus.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 68
+					},
+					"frame": {
+						"x": 1164,
+						"y": 147,
+						"w": 70,
+						"h": 68
+					}
+				},
+				{
+					"filename": "btn-info.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 65
+					},
+					"frame": {
+						"x": 1076,
+						"y": 150,
+						"w": 67,
+						"h": 65
+					}
+				},
+				{
+					"filename": "btn-no-balance.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 76
+					},
+					"frame": {
+						"x": 1076,
+						"y": 217,
+						"w": 147,
+						"h": 76
+					}
+				},
+				{
+					"filename": "bet-amt-bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 158,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 158,
+						"h": 63
+					},
+					"frame": {
+						"x": 1076,
+						"y": 295,
+						"w": 158,
+						"h": 63
+					}
+				},
+				{
+					"filename": "btn-auto.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 67
+					},
+					"frame": {
+						"x": 1076,
+						"y": 360,
+						"w": 142,
+						"h": 67
+					}
+				},
+				{
+					"filename": "btn-stop.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 67
+					},
+					"frame": {
+						"x": 1076,
+						"y": 429,
+						"w": 142,
+						"h": 67
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:192d7f07272171f392e2973ca9976eef:fc0ea7a1a2cbe0a26df5601ca77fd34b:5b04aa198265472a3c5f56958d78e97b$"
+	}
+}

@@ -1,0 +1,125 @@
+
+man-spine.png
+size: 452, 556
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+arm-bg
+  rotate: false
+  xy: 173, 267
+  size: 95, 219
+  orig: 95, 219
+  offset: 0, 0
+  index: -1
+arm-fg
+  rotate: false
+  xy: 5, 34
+  size: 115, 202
+  orig: 115, 202
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 217, 94
+  size: 111, 151
+  orig: 111, 151
+  offset: 0, 0
+  index: -1
+but
+  rotate: false
+  xy: 333, 65
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1
+dirt
+  rotate: true
+  xy: 426, 188
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+dish
+  rotate: true
+  xy: 125, 42
+  size: 194, 87
+  orig: 194, 87
+  offset: 0, 0
+  index: -1
+gems
+  rotate: false
+  xy: 222, 25
+  size: 73, 27
+  orig: 73, 27
+  offset: 0, 0
+  index: -1
+gold-nugget
+  rotate: false
+  xy: 217, 57
+  size: 88, 32
+  orig: 88, 32
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 333, 146
+  size: 88, 99
+  orig: 88, 99
+  offset: 0, 0
+  index: -1
+large-gold-sand
+  rotate: false
+  xy: 125, 5
+  size: 92, 32
+  orig: 92, 32
+  offset: 0, 0
+  index: -1
+leg-bg
+  rotate: false
+  xy: 5, 241
+  size: 79, 310
+  orig: 79, 310
+  offset: 0, 0
+  index: -1
+leg-fg
+  rotate: false
+  xy: 89, 241
+  size: 79, 310
+  orig: 79, 310
+  offset: 0, 0
+  index: -1
+ripple1
+  rotate: false
+  xy: 310, 40
+  size: 117, 20
+  orig: 117, 20
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 273, 250
+  size: 168, 77
+  orig: 168, 77
+  offset: 0, 0
+  index: -1
+small-gold-sand
+  rotate: false
+  xy: 5, 7
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 173, 491
+  size: 262, 60
+  orig: 262, 60
+  offset: 0, 0
+  index: -1
+water2
+  rotate: false
+  xy: 273, 332
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1

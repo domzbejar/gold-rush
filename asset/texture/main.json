@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "main.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 489,
+				"h": 543
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lose-msg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 219,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 219,
+						"h": 106
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 219,
+						"h": 106
+					}
+				},
+				{
+					"filename": "dirt.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 208,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 208,
+						"h": 102
+					},
+					"frame": {
+						"x": 222,
+						"y": 1,
+						"w": 208,
+						"h": 102
+					}
+				},
+				{
+					"filename": "empty.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 208,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 208,
+						"h": 102
+					},
+					"frame": {
+						"x": 222,
+						"y": 105,
+						"w": 208,
+						"h": 102
+					}
+				},
+				{
+					"filename": "gems.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 208,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 208,
+						"h": 102
+					},
+					"frame": {
+						"x": 1,
+						"y": 109,
+						"w": 208,
+						"h": 102
+					}
+				},
+				{
+					"filename": "gold-nugget.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 208,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 208,
+						"h": 102
+					},
+					"frame": {
+						"x": 211,
+						"y": 209,
+						"w": 208,
+						"h": 102
+					}
+				},
+				{
+					"filename": "large-gold-sand.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 208,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 208,
+						"h": 102
+					},
+					"frame": {
+						"x": 1,
+						"y": 213,
+						"w": 208,
+						"h": 102
+					}
+				},
+				{
+					"filename": "small-gold-sand.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 208,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 208,
+						"h": 102
+					},
+					"frame": {
+						"x": 211,
+						"y": 313,
+						"w": 208,
+						"h": 102
+					}
+				},
+				{
+					"filename": "large-gold-sand-label.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 54
+					},
+					"frame": {
+						"x": 1,
+						"y": 317,
+						"w": 152,
+						"h": 54
+					}
+				},
+				{
+					"filename": "gold-nugget-label.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 373,
+						"w": 153,
+						"h": 53
+					}
+				},
+				{
+					"filename": "win-msg-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 332,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 332,
+						"h": 62
+					},
+					"frame": {
+						"x": 156,
+						"y": 417,
+						"w": 332,
+						"h": 62
+					}
+				},
+				{
+					"filename": "small-gold-sand-label.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 428,
+						"w": 147,
+						"h": 50
+					}
+				},
+				{
+					"filename": "gems-label.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 107,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 46
+					},
+					"frame": {
+						"x": 1,
+						"y": 480,
+						"w": 107,
+						"h": 46
+					}
+				},
+				{
+					"filename": "win-msg-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 333,
+						"h": 61
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 333,
+						"h": 61
+					},
+					"frame": {
+						"x": 110,
+						"y": 481,
+						"w": 333,
+						"h": 61
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:caf6c69bd1aecc10a3bce40ea2266e74:535d4719bda44d27360aa3ab7851e30f:03f91ab73e0f4667800419161e658c40$"
+	}
+}

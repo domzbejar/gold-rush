@@ -1,0 +1,20 @@
+
+wave.png
+size: 1092, 892
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/waves
+  rotate: false
+  xy: 5, 447
+  size: 1080, 437
+  orig: 1080, 437
+  offset: 0, 0
+  index: -1
+images/waves2
+  rotate: false
+  xy: 5, 5
+  size: 1080, 437
+  orig: 1080, 437
+  offset: 0, 0
+  index: -1
